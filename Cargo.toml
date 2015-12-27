@@ -1,0 +1,9 @@
+[package]
+name = "mud"
+version = "0.1.0"
+authors = ["swu"]
+
+[dependencies]
+encoding="0.2.32"
+time="0.1"
+mio="*"
